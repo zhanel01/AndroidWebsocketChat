@@ -22,6 +22,10 @@ https://github.com/user-attachments/assets/0b683c5f-3f99-4249-b92f-640eef65a105
 
 ---
 
+📚 Используемая библиотека: [lab2-android](https://github.com/zhanel01/lab2-android)
+
+---
+
 ## 📦 Зависимости
 
 ```kotlin
@@ -29,6 +33,5 @@ implementation("com.zhanel01:chatlibrary:1.0.1")
 
 
 
----
-📚 Используемая библиотека: [lab2-android](https://github.com/zhanel01/lab2-android)
+
 
