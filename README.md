@@ -26,6 +26,9 @@ https://github.com/user-attachments/assets/0b683c5f-3f99-4249-b92f-640eef65a105
 
 ```kotlin
 implementation("com.zhanel01:chatlibrary:1.0.1")
+
+
+
 ---
-Library Repository
-https://github.com/zhanel01/lab2-android
+📚 Используемая библиотека: [lab2-android](https://github.com/zhanel01/lab2-android)
+
