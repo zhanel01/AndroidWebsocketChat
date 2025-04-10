@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Используем AppCompat тему с NoActionBar -->
+    <style name="Theme.AndroidChat" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Здесь ты можешь задать свои цвета -->
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#FFC107</item>
+    </style>
+
+</resources>
